@@ -10,20 +10,20 @@
 </div>
 <div align="center">
   <a href="httsp://github.com/alien-alfa/PublicBot">
-    <img src="https://img.shields.io/github/repo-size/alien-alfa/whatsapp-bot-collection?color=purple&label=Repo%20total%20size&style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/github/repo-size/Kaweeshachamodk/whatsapp-bot-collection?color=purple&label=Repo%20total%20size&style=for-the-badge&logo=github">
     </div>
 <p align="center">
 <p align="center">
-  <a href="https://github.com/Alien-alfa">
-    <img src="https://komarev.com/ghpvc/?username=Alien-alfa&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
+  <a href="https://github.com/Kaweeshachamodk">
+    <img src="https://komarev.com/ghpvc/?username=Kaweeshachamodk&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
 
   </a>
-  <a href="https://github.com/Alien-alfa?tab=stars">
-    <img src="https://img.shields.io/github/stars/Alien-alfa?color=ff69b4&label=Stargazers&style=plastic">
+  <a href="https://github.com/Kaweeshachamodk?tab=stars">
+    <img src="https://img.shields.io/github/stars/Kaweeshachamodk?color=ff69b4&label=Stargazers&style=plastic">
 
   </a>
-  <a href="https://github.com/Alien-alfa?tab=followers">
-    <img src="https://img.shields.io/github/followers/Alien-alfa?color=ff69b4&label=Followers&style=plastic">
+  <a href="https://github.com/Kaweeshachamodk?tab=followers">
+    <img src="https://img.shields.io/github/followers/Kaweeshachamodk?color=ff69b4&label=Followers&style=plastic">
 
   </a>
   
